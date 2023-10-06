@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "physics": 95,
+    "chemistry": 89,
+    "math": 92
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "physics": 88,
+    "chemistry": 76,
+    "math": 94
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "physics": 75,
+    "chemistry": 82,
+    "math": 90
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "physics": 91,
+    "chemistry": 85,
+    "math": 78
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "physics": 87,
+    "chemistry": 93,
+    "math": 89
+  },
+  {
+    "id": 6,
+    "name": "Sophia Lee",
+    "physics": 98,
+    "chemistry": 96,
+    "math": 97
+  },
+  {
+    "id": 7,
+    "name": "Daniel Anderson",
+    "physics": 84,
+    "chemistry": 79,
+    "math": 88
+  },
+  {
+    "id": 8,
+    "name": "Olivia Martin",
+    "physics": 92,
+    "chemistry": 91,
+    "math": 93
+  },
+  {
+    "id": 9,
+    "name": "William Taylor",
+    "physics": 77,
+    "chemistry": 84,
+    "math": 81
+  },
+  {
+    "id": 10,
+    "name": "Ava Brown",
+    "physics": 86,
+    "chemistry": 88,
+    "math": 79
+  },
+  {
+    "id": 11,
+    "name": "James White",
+    "physics": 80,
+    "chemistry": 75,
+    "math": 84
+  },
+  {
+    "id": 12,
+    "name": "Mia Garcia",
+    "physics": 94,
+    "chemistry": 90,
+    "math": 95
+  }
+]

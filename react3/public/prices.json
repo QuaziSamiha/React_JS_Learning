@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Treadmill",
+    "price": 1500.0,
+    "features": [
+      "Motorized",
+      "Adjustable speed and incline",
+      "Heart rate monitor",
+      "Built-in programs"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Elliptical Trainer",
+    "price": 1200.0,
+    "features": [
+      "Low-impact",
+      "Adjustable resistance",
+      "Dual-action handlebars",
+      "LCD display"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dumbbells Set",
+    "price": 300.0,
+    "features": [
+      "Various weight options",
+      "Durable construction",
+      "Non-slip grip"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bench Press",
+    "price": 800.0,
+    "features": [
+      "Adjustable incline",
+      "Sturdy frame",
+      "Padded bench",
+      "Weight rack"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rowing Machine",
+    "price": 1100.0,
+    "features": [
+      "Full-body workout",
+      "Adjustable resistance",
+      "Comfortable seat",
+      "LCD display"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Stationary Bike",
+    "price": 700.0,
+    "features": [
+      "Quiet operation",
+      "Adjustable resistance",
+      "Ergonomic seat",
+      "Digital console"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Smith Machine",
+    "price": 2000.0,
+    "features": [
+      "Guided barbell movements",
+      "Safety stops",
+      "Multi-position rack",
+      "Pulley system"
+    ]
+  }
+]
