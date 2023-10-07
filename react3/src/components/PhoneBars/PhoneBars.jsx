@@ -3,13 +3,13 @@ import { useState } from "react";
 import {
   BarChart,
   Bar,
-  Cell,
+  // Cell,
   XAxis,
   YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
+  // CartesianGrid,
+  // Tooltip,
+  // Legend,
+  // ResponsiveContainer,
 } from "recharts";
 
 function PhoneBars() {
