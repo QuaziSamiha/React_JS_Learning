@@ -8,6 +8,7 @@ import AboutUs from "./components/AboutUs/AboutUs.jsx";
 import Home from "./components/Home/Home.jsx";
 import Friends from "./components/Friends/Friends";
 import FriendDetail from "./components/FriendDetail/FriendDetail";
+import App from "./App.jsx";
 
 // const router = createBrowserRouter([
 //   {
@@ -28,7 +29,8 @@ import FriendDetail from "./components/FriendDetail/FriendDetail";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    // element: <Home />,
+    element: <App />,
     children: [
       {
         path: "/about",
